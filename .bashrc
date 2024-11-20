@@ -37,10 +37,10 @@ hard_return_symbol() {
      printf "\xE2\x86\xB5"
 }
 
-#mmcfadde@PC201485N ~/Documents/source/repos/API2ExcelReportConsoleApp (master) 2021-03-03 15:38:40 ↵
+#mmcfadde@xxxxxxx ~/Documents/source/repos/API2ExcelReportConsoleApp (master) 2021-03-03 15:38:40 ↵
 #$
 # export PS1="\u@\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\] \[\033[1;34m\]\D{%F %T}\[\033[37m\] \$(hard_return_symbol)\$(new_line)"
 
-#<<mmcfadde@PC201485N ~/Documents/source/repos/API2ExcelReportConsoleApp (master) 2021-03-03 15:45:16>>
+#<<mmcfadde@xxxxxxxx ~/Documents/source/repos/API2ExcelReportConsoleApp (master) 2021-03-03 15:45:16>>
 #$
 export PS1="<<\u@\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\] \[\033[1;34m\]\D{%F %T}\[\033[37m\]>>\$(new_line)"
